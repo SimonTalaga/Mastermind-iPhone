@@ -1,7 +1,7 @@
 //  ViewController.h
 //  Mastermind v4
 //
-//  Created by Prof on 21/02/14.
+//  Created by Simon Talaga on 21/02/14.
 //  Copyright (c) 2014 Simon Talaga. All rights reserved.
 //
 
