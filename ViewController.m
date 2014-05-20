@@ -2,8 +2,8 @@
 //  ViewController.m
 //  Mastermind v4
 //
-//  Created by Prof on 21/02/14.
-//  Copyright (c) 2014 Prof. All rights reserved.
+//  Created by Simon Talaga on 21/02/14.
+//  Copyright (c) 2014 Simon Talaga. All rights reserved.
 //
 
 #import "ViewController.h"
